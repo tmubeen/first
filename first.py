@@ -9,7 +9,7 @@ f_n="tauseef"
 l_n="mubeen"
 print("hello !"+f_n +l_n)
 
-a=['red','green','blue','yellow']
+a=['red','green1','blue1','yellow1']
 print(a)
 
 a[0]='black'
